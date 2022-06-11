@@ -1,0 +1,27 @@
+id: IED0131C1
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:13:09.263600'
+last_modified: '2022-06-11T13:13:09.263609'
+parser: null
+source_metadata:
+  title: Tulku Rigdzin Pema
+  language: en
+  description: 'Texts by and about Tulku Rigdzin Pema (sprul sku rig ''dzin padma,
+    b. 1948), a ritual master connected with Shechen Monastery renowned for his expertise
+    in stūpa construction and consecration:'
+  volume:
+    fEF43:
+      title: 'Instilling Confidence and Trust: An Inventory of the Sacred Contents
+        of the Jarung Khashor Stūpa'
+      base_file: fEF43.txt
+      order: 1
+      parent: Inventories
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
